@@ -1,0 +1,20 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {},
+  "description": "Return empty object or throw exception if argument is not an object",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "main": "lib/require-valid-optional-object.js",
+  "name": "immutable-require-valid-optional-object",
+  "repository": "warncke/immutable-require-valid-optional-object",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.0"
+}
